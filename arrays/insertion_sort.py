@@ -1,4 +1,4 @@
-
+#Time Complexity O(n^2)
 array = [2,4,5,3,7,8,1,5,10,4,6]
 
 n = len(array)
